@@ -1,0 +1,193 @@
+===== USER QUESTION =====
+How many ranks does League of Legends have?
+
+===== RETRIEVED SOURCES =====
+[1] data\League_of_Legends.pdf (Page 8)
+[2] data\League_of_Legends.pdf (Page 5)
+[3] data\Guide_To_Esports.pdf (Page 31)
+[4] data\Apex_Legends_Global_Series.pdf (Page 1)
+
+===== RETRIEVED CONTEXT =====
+8
+Methodology
+Participants
+League of legends has 9 ranks: iron, bronze, silver, gold, platinum, diamond, master,
+grandmaster, and challenger. For my study I analyzed20 games that only consisted of players
+residing in the top 4 ranks which were diamond, master, grandmaster, and challenger (in order
+from lowest to highest). Pro LoL players are technicallychallenger rank, but professional players
+are normally required to be in the top 50 of challengeror higher for a long period of time. In
+2019, there were roughly one thousand pro players.This meant that roughly 1 out of every
+100,000 players would go pro. That is less than a1% chance (Stuart, 2021).
+All of the games I used can be found on YouTube. Ianalyzed games from Vapora Dark,
+the Challenger replays youtube channel, and gamesfrom the 2020 worlds. Vapora Dark is a high
+ranking player who has consistently achieved mastersrank since 2015. Challenger Replays is a
+
+---
+
+5
+Figure 1.
+League of Legends (LoL) is a multiplayer online battlearena game (MOBA) created by Riot
+Games in 2009 (Figure 1). The game scope is simple:two teams of five compete against each
+other with the goal of destroying the opposing team’snexus (the heart of your team's base. When
+the nexus is destroyed, the game is over). Since itscreation, there have been a total of
+approximately 64 million people playing the game worldwideand making it one of the most
+successful online video games ever (Ramler et al.,2017). The most recent international
+tournament of LoL has seen more than one billion hourswatched in total (LoLEsportsStaff,
+2020), proving the high popularity of this game inesports. LoL has a large competitive scene.
+The higher the rank, the more skilled the playerswill be, and the more refined their strategies
+
+---
+
+ecosystem of a game, most publishers keep top-tier 
+competition under their direct management, or at least 
+under strict scrutiny, to showcase both the very best 
+of their elite players and the game being played in the 
+very best conditions.
+From amateur to professional and from local to 
+international, only tournaments or leagues organised 
+or directly endorsed by the publishers can be 
+considered official game competitions.
+Of course, top-tier competitions are the cream of the 
+crop and some of the most recognisable properties in 
+esports. Here we list some of them:
+ → Apex Legends Global Series by Electronic Arts
+ → Call of Duty League by Activision Blizzard
+ → Clash Royale League by Supercell
+ → Dota Pro Circuit by Valve
+ → EA SPORTS FIFA Global Series by Electronic Arts
+ → ESL Pro Tour: CSGO by ESL
+ → Fortnite Champion Series by Epic Games
+ → League of Legends World Championship by Riot 
+Games
+ → NBA 2K League, a joint venture between the NBA 
+and Take-Two Interactive
+
+---
+
+1 
+APEX LEGENDS™ GLOBAL SERIES YEAR SIX  
+OFFICIAL RULES  
+ 
+1. OVERVIEW 
+ 
+NO PURCHASE NECESSARY TO ENTER. VOID WHERE PROHIBITED BY LAW.  
+  
+The Apex Legends Global Series Year Six (“ALGS”) is sponsored by Electronic Arts Inc. (“EA”), 209 
+Redwood Shores Parkway, Redwood City, CA 94065, United States and is governed by these Official Rules 
+(“Official Rules”). 
+ 
+The ALGS is a series of video game competitions conducted using Apex Legends (“Game”) for the PC, 
+PlayStation 4, PlayStation 5, Xbox One, and Xbox Series X|S (“Supported Platforms”), depending on the 
+competition.   
+ 
+The ALGS consists of:  
+● Five (5) online competitions and competition series  
+○ Online Open  
+○ Pro League  
+○ Challenger Circuit  
+○ Pro League Qualifier (“PLQ”)  
+○ Last Chance Qualifier (“LCQ”)  
+● Three (3) in-person competitions  
+○ Split 1 Playoffs  
+○ Split 2 Playoffs  
+○ Championship  
+ 
+Online Open, Pro League, Challenger Circuit, PLQ, and LCQ are divided by the following Regions set out
+
+===== INDIVIDUAL CHUNKS =====
+
+--- Chunk 1 ---
+Source: data\League_of_Legends.pdf
+Page: 7
+8
+Methodology
+Participants
+League of legends has 9 ranks: iron, bronze, silver, gold, platinum, diamond, master,
+grandmaster, and challenger. For my study I analyzed20 games that only consisted of players
+residing in the top 4 ranks which were diamond, master, grandmaster, and challenger (in order
+from lowest to highest). Pro LoL players are technicallychallenger rank, but professional players
+are normally required to be in the top 50 of challengeror higher for a long period of time. In
+2019, there were roughly one thousand pro players.This meant that roughly 1 out of every
+100,000 players would go pro. That is less than a1% chance (Stuart, 2021).
+All of the games I used can be found on YouTube. Ianalyzed games from Vapora Dark,
+the Challenger replays youtube channel, and gamesfrom the 2020 worlds. Vapora Dark is a high
+ranking player who has consistently achieved mastersrank since 2015. Challenger Replays is a
+
+
+--- Chunk 2 ---
+Source: data\League_of_Legends.pdf
+Page: 4
+5
+Figure 1.
+League of Legends (LoL) is a multiplayer online battlearena game (MOBA) created by Riot
+Games in 2009 (Figure 1). The game scope is simple:two teams of five compete against each
+other with the goal of destroying the opposing team’snexus (the heart of your team's base. When
+the nexus is destroyed, the game is over). Since itscreation, there have been a total of
+approximately 64 million people playing the game worldwideand making it one of the most
+successful online video games ever (Ramler et al.,2017). The most recent international
+tournament of LoL has seen more than one billion hourswatched in total (LoLEsportsStaff,
+2020), proving the high popularity of this game inesports. LoL has a large competitive scene.
+The higher the rank, the more skilled the playerswill be, and the more refined their strategies
+
+
+--- Chunk 3 ---
+Source: data\Guide_To_Esports.pdf
+Page: 30
+ecosystem of a game, most publishers keep top-tier 
+competition under their direct management, or at least 
+under strict scrutiny, to showcase both the very best 
+of their elite players and the game being played in the 
+very best conditions.
+From amateur to professional and from local to 
+international, only tournaments or leagues organised 
+or directly endorsed by the publishers can be 
+considered official game competitions.
+Of course, top-tier competitions are the cream of the 
+crop and some of the most recognisable properties in 
+esports. Here we list some of them:
+ → Apex Legends Global Series by Electronic Arts
+ → Call of Duty League by Activision Blizzard
+ → Clash Royale League by Supercell
+ → Dota Pro Circuit by Valve
+ → EA SPORTS FIFA Global Series by Electronic Arts
+ → ESL Pro Tour: CSGO by ESL
+ → Fortnite Champion Series by Epic Games
+ → League of Legends World Championship by Riot 
+Games
+ → NBA 2K League, a joint venture between the NBA 
+and Take-Two Interactive
+
+
+--- Chunk 4 ---
+Source: data\Apex_Legends_Global_Series.pdf
+Page: 0
+1 
+APEX LEGENDS™ GLOBAL SERIES YEAR SIX  
+OFFICIAL RULES  
+ 
+1. OVERVIEW 
+ 
+NO PURCHASE NECESSARY TO ENTER. VOID WHERE PROHIBITED BY LAW.  
+  
+The Apex Legends Global Series Year Six (“ALGS”) is sponsored by Electronic Arts Inc. (“EA”), 209 
+Redwood Shores Parkway, Redwood City, CA 94065, United States and is governed by these Official Rules 
+(“Official Rules”). 
+ 
+The ALGS is a series of video game competitions conducted using Apex Legends (“Game”) for the PC, 
+PlayStation 4, PlayStation 5, Xbox One, and Xbox Series X|S (“Supported Platforms”), depending on the 
+competition.   
+ 
+The ALGS consists of:  
+● Five (5) online competitions and competition series  
+○ Online Open  
+○ Pro League  
+○ Challenger Circuit  
+○ Pro League Qualifier (“PLQ”)  
+○ Last Chance Qualifier (“LCQ”)  
+● Three (3) in-person competitions  
+○ Split 1 Playoffs  
+○ Split 2 Playoffs  
+○ Championship  
+ 
+Online Open, Pro League, Challenger Circuit, PLQ, and LCQ are divided by the following Regions set out
+
