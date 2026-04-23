@@ -2,7 +2,7 @@
 
 A simple, student-friendly Retrieval-Augmented Generation (RAG) project built with **LangGraph**, **ChromaDB**, **Pydantic**, and **local HuggingFace embeddings**.
 
-The current version is designed as a **health and fitness learning project**. It uses documents about health, gym tips, and fitness guides to teach students how an agentic LangGraph workflow can search a vector database, run parallel specialist nodes, and produce grounded answers.
+The current version is designed as a **RAG Esports Knowledge Bot**. It uses documents about game manuals, mechanics, strategic play, tactics, tournament structure and team roles guides to teach students how an agentic LangGraph workflow can search a vector database, run parallel specialist nodes, and produce grounded answers.
 
 ## What This Project Teaches
 
@@ -26,7 +26,7 @@ PDF files
 User question
   -> LangGraph RAG workflow
   -> search_index retrieves relevant chunks
-  -> health, gym, and fitness specialists run in parallel
+  -> game_manual, game_strategy, and esports specialists run in parallel
   -> planner chooses quick or detailed response
   -> final response with sources
 ```
@@ -48,7 +48,7 @@ Important idea for students:
 
 Ingestion is like preparing a library before the assistant can answer questions.
 
-### 2. Health Fitness Agent Phase
+### 2. Esports Knowledge Agent Phase
 
 `rag_agent.py` now defines a more agentic LangGraph workflow that matches a classroom-friendly pattern:
 
@@ -56,9 +56,9 @@ Ingestion is like preparing a library before the assistant can answer questions.
 START
   -> understand_question
   -> search_index
-  -> health_specialist
-  -> gym_specialist
-  -> fitness_specialist
+  -> game_manual_speciaist
+  -> game_strategy_specialist
+  -> esports_specialist
   -> pick_response_mode
   -> quick_answer OR detailed_answer
   -> END
@@ -70,7 +70,7 @@ This graph teaches several LangGraph ideas clearly:
    Interprets what the user is asking before retrieval
 2. `search_index`
    Explicitly searches the Chroma vector database
-3. `health_specialist`, `gym_specialist`, `fitness_specialist`
+3. `game_manual_specialist`, `game_strategy_specialist`, `esports_specialist`
    Three parallel nodes that each interpret the same retrieved context from a different angle
 4. `pick_response_mode`
    A fan-in decision node that chooses whether the final answer should be quick or detailed
@@ -93,7 +93,7 @@ It:
 RAG_AI_Agent/
 |-- main.py            # Interactive CLI app
 |-- ingestion.py       # PDF loading, chunking, embeddings, Chroma storage
-|-- rag_agent.py       # Health fitness LangGraph workflow with parallel nodes
+|-- rag_agent.py       # Esports Knowledge LangGraph workflow with parallel nodes
 |-- requirements.txt   # Python dependencies
 |-- .env.example       # Environment variable template
 |-- data/              # Put your PDF files here
@@ -155,10 +155,11 @@ python main.py
 Then ask questions such as:
 
 ```text
-What do these documents say about beginner workout routines?
-What health advice is mentioned for staying consistent with exercise?
-What gym tips do these documents give for strength training?
-Create a detailed answer about building a simple weekly fitness routine from these documents.
+What are the main trade associations listed in the Guide to Esports?
+According to the World of Warcraft Classic Manual, what is the role of the Paladin class?
+How many ranks does League of Legends have?
+What does the ALGS rules document say about team roster structure?
+According to the Warcraft III Manual, what are heroes?
 ```
 
 ### Optional: Run the agent file directly
@@ -232,9 +233,9 @@ The current graph is:
 START
   -> understand_question
   -> search_index
-  -> health_specialist
-  -> gym_specialist
-  -> fitness_specialist
+  -> game_manual_specialist
+  -> game_strategy_specialist
+  -> esports_specialist
   -> pick_response_mode
   -> quick_answer OR detailed_answer
   -> END
@@ -255,7 +256,7 @@ That makes it a strong base for future student extensions such as:
 If you just want the minimum commands on Windows PowerShell:
 
 ```powershell
-cd "c:\Users\nisar\Documents\AI Builder 3\Projects\RAG_AI_Agent"
+cd "c:\Users\swapnil-pc\Documents\AI Builder 3\Projects\RAG_AI_Agent"
 python -m venv .venv
 .\.venv\Scripts\Activate.ps1
 pip install -r requirements.txt
