@@ -14,7 +14,7 @@ import os
 from dotenv import load_dotenv
 
 from ingestion import CHROMA_DB_DIR
-from rag_agent import query_rag
+from guardrails_rag_graph import query_rag
 
 
 load_dotenv()
@@ -23,7 +23,7 @@ load_dotenv()
 def print_banner() -> None:
     """Display a simple welcome banner."""
     print("=" * 60)
-    print("RAG AI Agent - LangGraph + ChromaDB")
+    print("RAG AI Agent - Guardrails + Evaluation + LangGraph + ChromaDB")
     print("=" * 60)
 
 
